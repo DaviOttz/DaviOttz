@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá, eu sou o Davi Ortiz👋
 
-<!--
-**DaviOttz/DaviOttz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Ainda não estou trabalhando na área
+- 🌱 Estudando Javascript
+- 🌱 Estudante de Front-and
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DaviOrtiz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura">
+</div>
+<div>
+  <img aling="left" width="47%"  src="(https://github-readme-stats.vercel.app/api/top-langs/?username=DaviOrtiz&layout=compact)"
+</div>
